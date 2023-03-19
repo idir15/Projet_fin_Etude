@@ -1,0 +1,15 @@
+.form-control:not(select) {
+    padding: 1.6rem 0.5rem;
+}
+
+select.form-control {
+   
+     padding: 1.6rem 0.5rem;
+
+}
+
+
+.form-control:focus {
+    box-shadow: none;
+   
+}

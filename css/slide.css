@@ -1,0 +1,67 @@
+
+.slider{
+    height:500px;
+    width: 100% ;
+    background-position : center center ;
+    background-size : cover ;
+    background-repeat : no-repeat ;
+    backface-visibility : hidden ;
+    animation : slider 100s linear infinite 0s;
+    animation-timing-function: ease-in-out ;
+    background-image:url(../images/1234.jpg);
+    
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .job-search{
+ 
+
+    margin-top: 190px;
+
+
+
+
+}}
+
+@media screen and (max-width: 767px) {
+    .job-search{
+ 
+
+    margin-top: 90px;
+
+
+
+
+}}
+
+@media screen and (max-width: 576px) {
+    .job-search{
+ 
+
+    margin-top: 60px;
+
+
+
+
+}}
+
+
+@media screen and (max-width: 576px) {
+    .slider{
+ 
+
+    
+    background:none;
+
+
+
+
+}
+
+
+
+
+
+
